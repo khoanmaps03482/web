@@ -1,0 +1,9 @@
+@charset "utf-8";
+.khung {width:960px; height:600px; background-image:url(../TaiNguyen/h1.jpg); position:absolute;}
+.menu {width:400px; height:35px; background-color:#FFF; position:relative; top:35px; left:300px; opacity:0.6}
+.menu ul { margin:0px; padding:0px; list-style:none;}
+.menu ul li{ height:30px; line-height:40px; display:block; float:left; text-align:center;}
+.menu ul li a{color: #F09;font-size: 18px;font-weight: bold;text-decoration: none;display:block;padding-left:10px; padding-right:10px;}
+.menu ul li a:hover{color:#090;}
+
+
